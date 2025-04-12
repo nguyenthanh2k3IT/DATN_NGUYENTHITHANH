@@ -45,6 +45,7 @@ https://app.diagrams.net/#G1H0co0zrW72CU5blONmnhJQ0IwIn9EnRo#%7B%22pageId%22%3A%
 
 ### 3. 💾 Link đề cương đồ án tốt nghiệp
 - Đề cương chi tiết đồ án tốt nghiệp :
+
 https://docs.google.com/document/d/1X086nkLTsaZbcBS-ttfV79U__eFsfQvI/edit
 
 
