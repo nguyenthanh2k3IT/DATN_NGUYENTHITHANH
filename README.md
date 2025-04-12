@@ -20,7 +20,8 @@
 ## 💡 Các công nghệ chính trong dự án
 
 - **Programming**: Java, Python.
-- **TOOL**: Selenium , Playwright , Browser Use , Web UI.
+- **TOOL**: Selenium , Playwright
+- **AI AGENT** : Browser Use , Web UI.
 - **Databases**: My SQL , SQL SERVER
 
 ## 🔄 Báo cáo tiến độ 
