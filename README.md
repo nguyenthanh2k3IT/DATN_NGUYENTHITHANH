@@ -10,7 +10,7 @@
 - Sử dụng **Chat AI** để **Generate** code Test Automation.
 - Ứng dụng **AI Agent** sử dụng nền tảng **Browser Use** , **Web UI** để thực hiện kiểm thử tự động các kịch bản kiểm thử bằng ngôn ngữ tự nhiên. 
 
-## 🧩 Các chức năng chính dể thực hiện test
+## 🧩 Các chức năng chính để thực hiện test
 
 - ✅ Đăng nhập
 - ✅ Đăng ký
