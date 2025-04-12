@@ -56,3 +56,5 @@ https://docs.google.com/document/d/1X086nkLTsaZbcBS-ttfV79U__eFsfQvI/edit
 ### 5. 📊 Báo cáo DATN
 
 -------------
+
+## Cách cài đặt AI AGENT trên nền tảng Browser Use và Web UI 
