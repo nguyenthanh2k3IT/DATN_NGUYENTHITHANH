@@ -47,9 +47,6 @@ https://docs.google.com/spreadsheets/d/1dL6sx_J57KI9QQw3DLZieYETtbTEUevN/edit?gi
 [https://app.diagrams.net/#G1H0co0zrW72CU5blONmnhJQ0IwIn9EnRo#%7B%22pageId%22%3A%22KimPO_uVr8_RKMBNpVUn%22%7D](https://docs.google.com/spreadsheets/d/1YsIOgYRdFKt_2eyJBk6MWeKQiAb0L0tx/edit?gid=1974521266#gid=1974521266)
 - Demo dữ liệu test:
 
-![image](https://github.com/user-attachments/assets/fa9b253b-92ff-4132-a768-00059e6fac12)
-
-
 ### 4. 💾 Link đề cương đồ án tốt nghiệp
 - Đề cương chi tiết đồ án tốt nghiệp :
 
