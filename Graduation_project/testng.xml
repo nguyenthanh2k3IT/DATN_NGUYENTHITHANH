@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="KeywordDrivenSuite">
+    <test name="KeywordDrivenTest">
+        <classes>
+            <class name="RegisterTest"/>
+            <class name="LoginTest"/>
+            <class name="OrderTest"/>
+        </classes>
+    </test>
+</suite>
