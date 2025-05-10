@@ -14,7 +14,7 @@
 
 - ✅ Đăng nhập
 - ✅ Đăng ký
-- ✅ Cập nhật thông tin cá nhân
+- ✅ Tìm kiếm sản phẩm
 - ✅ Đặt hàng
 
 ## 💡 Các công nghệ chính trong dự án
@@ -27,7 +27,7 @@
 ## 🔄 Báo cáo tiến độ 
 ### 1. 🧠 Link biểu đồ hoạt động
 
-- Biểu đồ hoạt động cho các chức năng: Đăng nhập , Đăng ký , Cập nhật thông tin cá nhân , Đặt hàng :
+- Biểu đồ hoạt động cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng :
 https://app.diagrams.net/#G1H0co0zrW72CU5blONmnhJQ0IwIn9EnRo#%7B%22pageId%22%3A%22KimPO_uVr8_RKMBNpVUn%22%7D
 - Demo chức năng đăng nhập :
 
@@ -43,7 +43,7 @@ https://docs.google.com/spreadsheets/d/1dL6sx_J57KI9QQw3DLZieYETtbTEUevN/edit?gi
 
 ### 3. 🧠 Link Data Test
 
-- Chuẩn bị dữ liệu test cho các chức năng: Đăng nhập , Đăng ký , Cập nhật thông tin cá nhân , Đặt hàng :
+- Chuẩn bị dữ liệu test cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng :
 [https://app.diagrams.net/#G1H0co0zrW72CU5blONmnhJQ0IwIn9EnRo#%7B%22pageId%22%3A%22KimPO_uVr8_RKMBNpVUn%22%7D](https://docs.google.com/spreadsheets/d/1YsIOgYRdFKt_2eyJBk6MWeKQiAb0L0tx/edit?gid=1974521266#gid=1974521266)
 - Demo dữ liệu test:
 
