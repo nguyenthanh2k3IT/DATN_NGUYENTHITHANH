@@ -40,6 +40,11 @@
 
 ### Open Allure Report
 - Mở Terminal trên Intellij IDEA: `allure generate --single-file target/allure-results -o allure-report --clean`
+## Hướng dẫn cài đặt AI AGENT trên nền tảng Browser Use và Web UI 
+### Cài đặt Browser Use 
+https://github.com/browser-use/browser-use
+### Cài đặt Web UI 
+https://github.com/browser-use/web-ui
 
 ## 🔄 Báo cáo tiến độ 
 ### 1. 🧠 Link biểu đồ hoạt động
@@ -77,10 +82,3 @@ https://docs.google.com/document/d/1X086nkLTsaZbcBS-ttfV79U__eFsfQvI/edit
 ### 6. 📊 Báo cáo DATN
 
 -------------
-
-## 🧠 Hướng dẫn cài đặt AI AGENT trên nền tảng Browser Use và Web UI 
-### 1. Cài đặt Browser Use 
-https://github.com/browser-use/browser-use
-### 2. Cài đặt Web UI 
-https://github.com/browser-use/web-ui
-
