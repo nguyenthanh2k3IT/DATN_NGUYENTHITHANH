@@ -1,4 +1,12 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-/allure-results
+.idea/
+target/
+out/
+logs/
+target/allure-results/
+allure-reports/
+VideoRecord/
+VideoRecords/
+screenshots/
+screenshot/
+report/
+*.iml

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteOrderTest" verbose="1" thread-count = "4">
+    <listeners>
+        <listener class-name="com.thanhtester.listeners.TestListener"></listener>
+    </listeners>
+    <test name="Verify Order Test" parallel="methods">
+        <classes>
+            <class name="com.thanhtester.testcases.OrderTest"/>
+        </classes>
+    </test>
+</suite>
