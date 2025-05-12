@@ -2,6 +2,17 @@
 
 ## 🧠 Ứng dụng AI Agent sử dụng nền tảng Browser Use và Web UI để thực hiện kiểm thử tự động kết hợp với Selenium và Playwright
 🟢 WebTEST : [https://cms.anhtester.com/ ](https://cms.anhtester.com/)
+### Admin page
+
+- URL: https://cms.anhtester.com/login
+- Email: admin@example.com
+- Password: 123456
+
+### Customer page
+
+- URL: https://cms.anhtester.com/users/login
+- Email: customer@example.com
+- Password: 123456
 
 ## 🎯 Mục tiêu đề tài
 
@@ -18,11 +29,17 @@
 - ✅ Đặt hàng
 
 ## 💡 Các công nghệ chính trong dự án
+- Selenium Java
+- TestNG Framework
+- Apache POI
+- Log4j2
+- Extent Report
+- Allure Report
+- Build Tools: Maven project
+- Design Pattern: Page Object Model + Keyword + Data Driven
 
-- **Programming**: Java, Python.
-- **TOOL**: Selenium , Playwright
-- **AI AGENT** : Browser Use , Web UI.
-- **Databases**: My SQL , SQL SERVER
+### Open Allure Report
+- Mở Terminal trên Intellij IDEA: `allure generate --single-file target/allure-results -o allure-report --clean`
 
 ## 🔄 Báo cáo tiến độ 
 ### 1. 🧠 Link biểu đồ hoạt động
