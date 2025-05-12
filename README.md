@@ -33,7 +33,6 @@
 - TestNG Framework
 - Apache POI
 - Log4j2
-- Extent Report
 - Allure Report
 - Build Tools: Maven project
 - Design Pattern: Page Object Model + Keyword + Data Driven
