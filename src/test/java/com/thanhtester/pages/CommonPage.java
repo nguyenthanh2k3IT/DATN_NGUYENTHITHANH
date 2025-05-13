@@ -5,7 +5,6 @@ public class CommonPage {
     public ProfilePage profilePage;
     public OrderPage orderPage;
     public AddProductPage addProductPage;
-    public EditProductPage editProductPage;
     public ProductInfoPage productInfoPage;
     public RegisterPage registerPage;
     public HomePage homePage;
@@ -67,13 +66,6 @@ public class CommonPage {
             homePage = new HomePage();
         }
         return homePage;
-    }
-
-    public EditProductPage getEditProductPage() {
-        if (editProductPage == null) {
-            editProductPage = new EditProductPage();
-        }
-        return editProductPage;
     }
 
     public static DashboardPage getDashboardPage() {

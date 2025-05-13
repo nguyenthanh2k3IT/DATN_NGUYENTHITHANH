@@ -4,12 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="" />
+    <list default="true" id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/AddProduct.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/AvatarAccount.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/gio-qua-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/gio-qua-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/gio-qua-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/gio-qua-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/dataproviders/DataProviderAddProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/dataproviders/DataProviderAddProductToCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CommonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CommonPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/EditProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/AddCouponTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nguyenthanh2k3IT&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nguyenthanh2k3IT/DATN_NGUYENTHITHANH.git&quot;,
+    &quot;accountId&quot;: &quot;fabe7804-9533-449a-8155-47ea3fe9ab76&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -18,19 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1).executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml.executor": "Run",
-    "TestNG.LoginTest.TC_LoginFailWithEmailDoesNotExist.executor": "Run",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.TC_LoginFailWithEmailDoesNotExist.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Thanh_Test/Selenium_Java_ThuyDung&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml">
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml">
     <configuration name="C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DATN_Selenium_Java_ThuyDung" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/SuiteLogin.xml" />
@@ -61,6 +94,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Graduation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/SuiteLogin.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest.TC_LoginFailWithEmailDoesNotExist" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DATN_Selenium_Java_ThuyDung" />
       <extension name="coverage">
@@ -81,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml" />
         <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml" />
         <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1)" />
         <item itemvalue="TestNG.LoginTest.TC_LoginFailWithEmailDoesNotExist" />
