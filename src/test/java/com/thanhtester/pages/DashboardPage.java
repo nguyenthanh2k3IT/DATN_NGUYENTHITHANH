@@ -60,8 +60,6 @@ public class DashboardPage extends CommonPage {
         //int j = 0;
         for (WebElement resultWebElementSearchProduct : listResultSearchProduct) {
             listResultSearchProductValues.add(WebUI.removeAccent(resultWebElementSearchProduct.getText().toLowerCase()));
-            //j++;
-            //WebUI.verifyAssertTrueIsDisplayed(By.xpath("(//div[contains(@class,'typed-search-box')]//div[text()='Products']/following-sibling::ul//div[contains(@class,'product-name')])[" + j + "]"), "Ket qua tim kiem KHONG xuat hien");
         }
         //
         keySearchProduct = WebUI.removeAccent(keySearchProduct.toLowerCase());
@@ -73,8 +71,7 @@ public class DashboardPage extends CommonPage {
             for (int i = 0; i < textSplit.size(); i++) {
                 if (resultSearchProductValue.contains(textSplit.get(i))) {
                     count++;
-                    //System.out.println("Text: " + textSplit.get(i) + " is contained in: " + resultSearchProductValue);
-                    ExtentTestManager.logMessage(Status.PASS, "Text: " + textSplit.get(i) + " is contained in: " + resultSearchProductValue);
+                   ExtentTestManager.logMessage(Status.PASS, "Text: " + textSplit.get(i) + " is contained in: " + resultSearchProductValue);
                     LogUtils.info("Text: " + textSplit.get(i) + " is contained in: " + resultSearchProductValue);
                 }
             }
@@ -101,19 +98,6 @@ public class DashboardPage extends CommonPage {
     }
 
     public void testSearchSuggestionCategoryContainKeySearchProduct(String keySearchProduct) {
-//        testSearchProduct(keySearchProduct);
-//        List<WebElement> listResultSearchCategory = DriverManager.getDriver().findElements(resultCategorySuggestions);
-//        List<String> listResultSearchCategoryValues = new ArrayList<>();
-//        int i = 0;
-//        for (WebElement resultWebElementSearchCategory : listResultSearchCategory) {
-//            listResultSearchCategoryValues.add(resultWebElementSearchCategory.getText().toLowerCase());
-//            i++;
-//            WebUI.verifyAssertTrueIsDisplayed(By.xpath("(//div[contains(@class,'typed-search-box')]//div[text()='Category Suggestions']/following-sibling::ul//a)[" + i + "]"), "Ket qua tim kiem KHONG xuat hien");
-//        }
-//        for (String resultSearchCategoryValue : listResultSearchCategoryValues) {
-//            WebUI.verifyAssertContain(resultSearchCategoryValue, keySearchProduct, "Ket qua tim kiem KHONG dung");
-//        }
-//        WebUI.sleep(2);
         testSearchProduct(keySearchProduct);
         WebUI.verifyAssertTrueIsDisplayed(resultCategorySuggestions, "Ket qua tim kiem KHONG xuat hien");
         //Check result contain keySearchProduct
@@ -122,19 +106,6 @@ public class DashboardPage extends CommonPage {
     }
 
     public void testSearchSuggestionTagContainKeySearchProduct(String keySearchProduct) {
-//        testSearchProduct(keySearchProduct);
-//        List<WebElement> listResultSearchTag = DriverManager.getDriver().findElements(resultTagSuggestions);
-//        List<String> listResultSearchTagValues = new ArrayList<>();
-//        int i = 0;
-//        for (WebElement resultWebElementSearchTag : listResultSearchTag) {
-//            listResultSearchTagValues.add(resultWebElementSearchTag.getText().toLowerCase());
-//            i++;
-//            WebUI.verifyAssertTrueIsDisplayed(By.xpath("(//div[contains(@class,'typed-search-box')]//div[text()='Popular Suggestions']/following-sibling::ul//a)[" + i + "]"), "Ket qua tim kiem KHONG xuat hien");
-//        }
-//        for (String resultSearchTagValue : listResultSearchTagValues) {
-//            WebUI.verifyAssertContain(resultSearchTagValue, keySearchProduct, "Ket qua tim kiem KHONG dung");
-//        }
-//        WebUI.sleep(2);
         testSearchProduct(keySearchProduct);
         WebUI.verifyAssertTrueIsDisplayed(resultTagSuggestions, "Ket qua tim kiem KHONG xuat hien");
         WebUI.verifyAssertTrueTextContain(resultTagSuggestions, keySearchProduct, "Ket qua tim kiem KHONG dung");

@@ -61,7 +61,6 @@ public class RegisterPage extends CommonPage {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyyMMddHHmmss");
         String timestamp = formatter.format(now);
         email = email + timestamp + RandomStringUtils.randomAlphabetic(3).toUpperCase() + "@gmail.com";
-//        email = email + RandomStringUtils.randomAlphabetic(8).toUpperCase() + "@gmail.com";
         registerAccount(fullname, email, password, confirm_password);
         verifyNewCustomerAccount(fullname, email);
         WebUI.sleep(2);

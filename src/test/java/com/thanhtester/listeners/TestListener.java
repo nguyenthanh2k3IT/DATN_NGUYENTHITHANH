@@ -83,20 +83,6 @@ public class TestListener implements ITestListener {
             WebUI.sleep(1);
             CaptureHelper.stopRecord();
         }
-//        boolean isLogIssue = result.getMethod().getConstructorOrMethod().getMethod().getAnnotation(JiraCreateIssue.class).isCreateIssue();
-//        if (isLogIssue) {
-//            JiraServiceProvider JiraServiceProvider = new JiraServiceProvider();
-//            String issueDescription = "Failure reason from Automation Selenium\n\n" + result.getThrowable().getMessage() + "\n";
-//
-//            issueDescription.concat(ExceptionUtils.getFullStackTrace(result.getThrowable()));
-//            String issueSummary = result.getMethod().getConstructorOrMethod().getMethod().getName() + " Failed in Automation Selenium";
-//            Date now = new Date();
-//            SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy-HH:mm:ss");
-//            String timestamp = formatter.format(now);
-//            JiraServiceProvider.createJiraIssue("Bug", issueSummary + " " + timestamp, issueDescription);
-//            JiraServiceProvider.addAttachmentToJiraIssue("Report/screenshots/" + result.getName() + ".png");
-//
-//        }
 
         //Add Screenshot to ExtentReport
         ExtentTestManager.addScreenShot(Status.FAIL, "Evidence " + getTestName(result) + " failed");

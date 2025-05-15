@@ -1155,6 +1155,4 @@ public class AddProductPage extends CommonPage {
         WebUI.checkHTML5MessageWithValueInvalid(inputUnit, "Unit la truong bat buoc");
         WebUI.verifyAssertTrueEqualMessageHTML(inputUnit, "Please fill out this field.", "Messge Unit hien thi khong dung");
     }
-
-
 }

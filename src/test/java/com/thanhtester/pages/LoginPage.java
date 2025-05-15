@@ -94,10 +94,6 @@ public class LoginPage extends CommonPage {
             WebUI.verifyAssertEquals(WebUI.getElementText(DashboardPage.titleDashboard), "Dashboard", "Tiêu đề trang Dashboard không đúng.");
         } catch (Exception e) {
             e.printStackTrace();
-//            if (WebUI.checkElementExist(By.xpath("//*[contains(text(),'too long to response')]"))) {
-//                JavascriptExecutor js = (JavascriptExecutor) DriverManager.getDriver();
-//                js.executeScript("location.reload()");
-//            }
         }
     }
 
@@ -113,10 +109,6 @@ public class LoginPage extends CommonPage {
             WebUI.verifyAssertTrueEqual(roleUser, "seller", "Tài khoản đăng nhập không phải seller.");
         } catch (Exception e) {
             e.printStackTrace();
-//            if (WebUI.checkElementExist(By.xpath("//*[contains(text(),'too long to response')]"))) {
-//                JavascriptExecutor js = (JavascriptExecutor) DriverManager.getDriver();
-//                js.executeScript("location.reload()");
-//            }
         }
 
     }
@@ -145,10 +137,6 @@ public class LoginPage extends CommonPage {
             WebUI.verifyAssertTrueEqual(roleUser, "staff", "Tài khoản đăng nhập không phải admin.");
         } catch (Exception e) {
             e.printStackTrace();
-//            if (WebUI.checkElementExist(By.xpath("//*[contains(text(),'too long to response')]"))) {
-//                JavascriptExecutor js = (JavascriptExecutor) DriverManager.getDriver();
-//                js.executeScript("location.reload()");
-//            }
         }
     }
 
