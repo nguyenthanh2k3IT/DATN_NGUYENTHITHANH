@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTest/Register.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/Register.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/requests/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/requests/OrderAmount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/requests/OrderSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/listeners/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/listeners/TestListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/AddProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/AddProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CommonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CommonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CouponPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/OrderPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/ProfilePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/OrderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suites/SuiteOrderProduct.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
