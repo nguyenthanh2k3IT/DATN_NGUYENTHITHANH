@@ -17,19 +17,18 @@
 ## 🎯 Mục tiêu đề tài
 
 - Xây dựng , thực thi  test script cho các chức năng Web thương mại bằng công cụ **Selenium**.
-- Xây dựng , thực thi  test script cho các chức năng Web thương mại bằng công cụ **Playwright**.
-- Sử dụng **Chat AI** để **Generate** code Test Automation.
-- Ứng dụng **AI Agent** sử dụng nền tảng **Browser Use** , **Web UI** để thực hiện kiểm thử tự động các kịch bản kiểm thử bằng ngôn ngữ tự nhiên. 
+- Ứng dụng **AI Agent** sử dụng nền tảng **Browser Use** , **Web UI**  kết hợp với công cụ **Playwright** để thực hiện kiểm thử tự động các kịch bản kiểm thử bằng ngôn ngữ tự nhiên.
 
 ## 🧩 Các chức năng chính để thực hiện test
 
 - ✅ Đăng nhập
 - ✅ Đăng ký
 - ✅ Tìm kiếm sản phẩm
-- ✅ Đặt hàng
+- ✅ Thêm sản phẩm mới 
 
 ## 💡 Các công nghệ chính trong dự án
 - Selenium Java
+- Playwright Python
 - TestNG Framework
 - Apache POI
 - Log4j2
@@ -72,7 +71,6 @@ https://docs.google.com/spreadsheets/d/1dL6sx_J57KI9QQw3DLZieYETtbTEUevN/edit?gi
 - Đề cương chi tiết đồ án tốt nghiệp :
 
 https://docs.google.com/document/d/1X086nkLTsaZbcBS-ttfV79U__eFsfQvI/edit
-
 
 ### 5. 🔐 Powerpoint 
 
