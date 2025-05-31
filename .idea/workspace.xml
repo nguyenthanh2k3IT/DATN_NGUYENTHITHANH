@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,31 +36,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.AddProductTest.TC_AddProductNoVariantValidRoleAdminWithHaveDiscount.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1).executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteRegister.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteSearchProduct.xml.executor": "Run",
-    "TestNG.LoginTest.TC_LoginFailWithEmailDoesNotExist.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail.executor": "Run",
-    "TestNG.RegisterTest.TC_RegisterFailCustomerWithoutFullname.executor": "Run",
-    "TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo (1).executor": "Run",
-    "TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo.executor": "Run",
-    "TestNG.SearchProductTest.TC_SearchSuggestionCategoryContainKeySearchProduct.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Thanh_Test/Selenium_Java_ThuyDung"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.AddProductTest.TC_AddProductNoVariantValidRoleAdminWithHaveDiscount.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteRegister.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteSearchProduct.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.TC_LoginFailWithEmailDoesNotExist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTest.TC_RegisterFailCustomerWithoutFullname.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchProductTest.TC_SearchSuggestionCategoryContainKeySearchProduct.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Thanh_Test/Selenium_Java_ThuyDung&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.AddProductTest.TC_AddProductNoVariantValidRoleAdminWithHaveDiscount">
+}</component>
+  <component name="RunManager" selected="TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail">
     <configuration name="AddProductTest.TC_AddProductNoVariantValidRoleAdminWithHaveDiscount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Graduation" />
       <extension name="coverage">
@@ -78,6 +79,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Graduation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/SuiteLogin.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteRegister.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Graduation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/SuiteRegister.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteSearchProduct.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Graduation" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/SuiteSearchProduct.xml" />
@@ -88,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTest.TC_RegisterFailCustomerWithExistEmail" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Graduation" />
       <extension name="coverage">
         <pattern>
@@ -98,43 +119,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterSuccessCustomerWithValidBasicInfo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Graduation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterSuccessCustomerWithValidBasicInfo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchProductTest.TC_SearchSuggestionCategoryContainKeySearchProduct" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Graduation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.SearchProductTest" />
-      <option name="METHOD_NAME" value="TC_SearchSuggestionCategoryContainKeySearchProduct" />
+      <option name="METHOD_NAME" value="TC_RegisterFailCustomerWithExistEmail" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -144,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail" />
+        <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteRegister.xml" />
+        <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml" />
         <item itemvalue="TestNG.AddProductTest.TC_AddProductNoVariantValidRoleAdminWithHaveDiscount" />
         <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteSearchProduct.xml" />
-        <item itemvalue="TestNG.SearchProductTest.TC_SearchSuggestionCategoryContainKeySearchProduct" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo (1)" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo" />
       </list>
     </recent_temporary>
   </component>
