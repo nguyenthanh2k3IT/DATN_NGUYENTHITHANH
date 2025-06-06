@@ -2,12 +2,10 @@ package com.thanhtester.testcases;
 
 import com.thanhtester.common.BaseTest;
 import com.thanhtester.helpers.ExcelHelper;
-import com.thanhtester.utils.JiraCreateIssue;
 import org.testng.annotations.Test;
 
 public class RegisterTest extends BaseTest {
     //đăng ký tài khoản Customer thành công vào với thông tin hợp lệ
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 1)
     public void TC_RegisterSuccessCustomerWithValidBasicInfo() {
         ExcelHelper excel = new ExcelHelper();
@@ -16,7 +14,6 @@ public class RegisterTest extends BaseTest {
     }
 
     //Đăng ký tài khoản Customer không thành công khi không nhập fullname
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 2)
     public void TC_RegisterFailCustomerWithoutFullname() {
         ExcelHelper excel = new ExcelHelper();
@@ -25,7 +22,6 @@ public class RegisterTest extends BaseTest {
     }
 
     //Đăng ký tài khoản Customer không thành công khi không nhập email
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 3)
     public void TC_RegisterFailCustomerWithoutEmail() {
         ExcelHelper excel = new ExcelHelper();
@@ -34,7 +30,6 @@ public class RegisterTest extends BaseTest {
     }
 
     //Đăng ký tài khoản Customer không thành công khi không nhập email đã tồn tại
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 4)
     public void TC_RegisterFailCustomerWithExistEmail() {
         ExcelHelper excel = new ExcelHelper();
@@ -42,8 +37,7 @@ public class RegisterTest extends BaseTest {
         getRegisterPage().registerFailWithExistEmail(excel.getCellData("fullname", 4), excel.getCellData("email", 4), excel.getCellData("password", 4), excel.getCellData("confirm password", 4));
     }
 
-    //Đăng ký tài khoản Customer không thành công khi nhập email không đúng định dạng
-    @JiraCreateIssue(isCreateIssue = false)
+    //Đăng ký tài khoản Customer không thành công khi nhập email không hợp lệ
     @Test(priority = 5)
     public void TC_RegisterFailCustomerWithInvalidEmail() {
         ExcelHelper excel = new ExcelHelper();
@@ -51,8 +45,7 @@ public class RegisterTest extends BaseTest {
         getRegisterPage().registerFailWithInvalidEmail(excel.getCellData("fullname", 5), excel.getCellData("email", 5), excel.getCellData("password", 5), excel.getCellData("confirm password", 5));
     }
 
-    //Đăng ký tài khoản Customer không thành công khi không nhập password
-    @JiraCreateIssue(isCreateIssue = false)
+    //Kiểm tra chức năng đăng ký tài khoản khi để trống mật khẩu
     @Test(priority = 6)
     public void TC_RegisterFailCustomerWithoutPassword() {
         ExcelHelper excel = new ExcelHelper();
@@ -61,7 +54,6 @@ public class RegisterTest extends BaseTest {
     }
 
     //Đăng ký tài khoản Customer không thành công khi nhập password ít hơn 6 ký tự
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 7)
     public void TC_RegisterFailCustomerWithPasswordLessCharacter() {
         ExcelHelper excel = new ExcelHelper();
@@ -70,7 +62,6 @@ public class RegisterTest extends BaseTest {
     }
 
     //Đăng ký tài khoản Customer không thành công khi nhap password không trùng khớp
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 8)
     public void TC_RegisterFailCustomerWithPasswordNotMatch() {
         ExcelHelper excel = new ExcelHelper();
@@ -79,7 +70,6 @@ public class RegisterTest extends BaseTest {
     }
 
     //Đăng ký tài khoản Customer không thành công khi không chấp nhận điều khoản
-    @JiraCreateIssue(isCreateIssue = false)
     @Test(priority = 9)
     public void TC_RegisterFailCustomerWithoutAcceptTerm() {
         ExcelHelper excel = new ExcelHelper();

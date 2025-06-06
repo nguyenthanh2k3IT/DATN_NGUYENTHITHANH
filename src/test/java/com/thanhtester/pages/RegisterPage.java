@@ -19,6 +19,7 @@ public class RegisterPage extends CommonPage {
     public By buttonRegister = By.xpath("//button[normalize-space()='Create Account']");
     public By messageRequiredPassword = By.xpath("//strong[contains(text(),'The password field is required.')]");
     public By messageRequiredFullName = By.xpath("//strong[normalize-space()='The name field is required.']");
+    public By messageRequiredEmail = By.xpath("//strong[normalize-space()='The name field is required.']");
     public By messageRequiredPasswordCharacter = By.xpath("//strong[normalize-space()='The password must be at least 6 characters.']");
     public By messageRequiredConfirmPasswordMatch = By.xpath("//strong[normalize-space()='The password confirmation does not match.']");
     public By messageNotiRegister = By.xpath("//span[@data-notify='message']");
@@ -81,7 +82,9 @@ public class RegisterPage extends CommonPage {
 
     public void registerFailWithoutEmail(String fullname, String email, String password, String confirm_password) {
         registerAccount(fullname, email, password, confirm_password);
-        WebUI.verifyAssertTrueIsDisplayed(errorMessage, "He thong khong bao loi khi email de trong.");
+        //WebUI.verifyAssertTrueIsDisplayed(errorMessage, "He thong khong bao loi khi email de trong.");
+        WebUI.verifyAssertTrueIsDisplayed(messageRequiredEmail, "Khong xuat hien thong bao bat buoc nhap email.");
+        WebUI.verifyAssertTrueEqual(messageRequiredEmail, "The email field is required.", "Thong bao bat buoc nhap ten khong dung.");
         WebUI.sleep(2);
     }
 
