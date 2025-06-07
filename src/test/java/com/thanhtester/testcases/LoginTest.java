@@ -22,12 +22,12 @@ public class LoginTest extends BaseTest {
         getLoginPage().loginSuccessWithCustomerAccount(excel.getCellData("email", 4), excel.getCellData("password", 4));
     }
 
-    //đăng nhập thành công với tài khoản seller
-    @Test(priority = 3, description = "Kiem tra dang nhap voi tai khoan nguoi ban hop le")
-    public void TC_LoginSuccessWithSellerAccount() {
+    //đăng nhập thành công với email password null
+    @Test(priority = 3, description = "Kiem tra dang nhap khi de trong email password")
+    public void TC_LoginwithnullEmailPassword() {
         ExcelHelper excel = new ExcelHelper();
         excel.setExcelFile("DataTest/Login.xlsx", "Login");
-        getLoginPage().loginSuccessWithSellerAccount(excel.getCellData("email", 6), excel.getCellData("password", 6));
+        getLoginPage().loginwithnullEmailPassword(excel.getCellData("email", 6), excel.getCellData("password", 6));
     }
 
     //đăng nhập với email để trống

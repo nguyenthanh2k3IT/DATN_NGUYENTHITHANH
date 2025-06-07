@@ -97,20 +97,12 @@ public class LoginPage extends CommonPage {
         }
     }
 
-    public void loginSuccessWithSellerAccount(String email, String password) {
-        try {
-            openLoginPage();
-            WebUI.setTextAndClear(inputEmail, email);
-            WebUI.setTextAndClear(inputPassword, password);
-            WebUI.clickElement(buttonSubmitLogin);
-            WebUI.waitForElementVisible(DashboardPage.titleDashboard);
-            WebUI.verifyAssertTrueIsDisplayed(DashboardPage.titleDashboard, "Trang Dashboard không được hiển thị.");
-            WebUI.verifyAssertEquals(WebUI.getElementText(DashboardPage.titleDashboard), "Dashboard", "Tiêu đề trang Dashboard không đúng.");
-            WebUI.verifyAssertTrueEqual(roleUser, "seller", "Tài khoản đăng nhập không phải seller.");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
+    public void loginwithnullEmailPassword(String email, String password) {
+        openLoginPage();
+        WebUI.clickElement(buttonSubmitLogin);
+        WebUI.verifyAssertTrueIsDisplayed(messageInvalidEmailFormat, "Email không bắt buộc.");
+        WebUI.verifyAssertTrueIsDisplayed(messageRequiredEmail, "Thông báo bắt buộc nhập email không xuất hiện.");
+        WebUI.verifyAssertEquals(WebUI.getElementText(messageRequiredEmail), "The email field is required when phone is not present.", "Nội dung của thông báo không đúng.");
     }
 
     @Step("Login with admin account")

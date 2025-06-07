@@ -6,16 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTest/Register.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/Register.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/Login.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/Login.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/testconvert.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/testconvert.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/utils/JiraCreateIssue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/utils/JiraServiceProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/AddProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/AddProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/RegisterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/SearchProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/SearchProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +60,7 @@
     "TestNG.LoginTest.TC_LoginFailWithNullPassword.executor": "Run",
     "TestNG.LoginTest.TC_LoginSuccessAdminPage.executor": "Run",
     "TestNG.LoginTest.TC_LoginSuccessWithSellerAccount.executor": "Run",
+    "TestNG.LoginTest.TC_LoginwithnullEmailPassword.executor": "Run",
     "TestNG.LoginTest.executor": "Run",
     "TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail.executor": "Run",
     "TestNG.RegisterTest.TC_RegisterFailCustomerWithInvalidEmail.executor": "Run",
@@ -79,8 +76,8 @@
     "last_opened_file_path": "C:/Thanh_Test/Selenium_Java_ThuyDung"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.RegisterTest.TC_RegisterFailCustomerWithoutEmail">
-    <configuration name="RegisterTest.TC_RegisterFailCustomerWithExistEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.LoginTest.TC_LoginwithnullEmailPassword">
+    <configuration name="LoginTest.TC_LoginwithnullEmailPassword" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Graduation" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +86,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterFailCustomerWithExistEmail" />
+      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="TC_LoginwithnullEmailPassword" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest.TC_LoginwithnullEmailPassword" />
         <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithoutEmail" />
         <item itemvalue="TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo" />
         <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithoutPassword" />
         <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithInvalidEmail" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail" />
       </list>
     </recent_temporary>
   </component>
