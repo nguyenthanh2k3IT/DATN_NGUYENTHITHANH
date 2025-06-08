@@ -1,11 +1,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="SuiteSearchProductTest" verbose="1" thread-count = "4">
     <listeners>
-        <listener class-name="com.thanhtester.listeners.TestListener"></listener>
+        <listener class-name="com.thanhnguyen.listeners.TestListener"></listener>
     </listeners>
     <test name="Verify Search Product" parallel="methods">
         <classes>
-            <class name="com.thanhtester.testcases.SearchProductTest"/>
+            <class name="com.thanhnguyen.testcases.SearchProductTest"/>
         </classes>
     </test>
 </suite>

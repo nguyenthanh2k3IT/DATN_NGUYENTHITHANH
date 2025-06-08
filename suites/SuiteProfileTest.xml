@@ -1,11 +1,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="SuiteLoginTest" verbose="1" thread-count = "4">
+<suite name="SuiteProfileTest" verbose="1" thread-count = "4">
     <listeners>
         <listener class-name="com.thanhnguyen.listeners.TestListener"></listener>
     </listeners>
-    <test name="Verify Login Page run parallel" parallel="methods">
+    <test name="Update Profile" parallel="methods">
         <classes>
-            <class name="com.thanhnguyen.testcases.LoginTest"/>
+            <class name="com.thanhnguyen.testcases.ProfileTest"/>
         </classes>
     </test>
 </suite>

@@ -4,14 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="">
+    <list default="true" id="020ef196-2d0c-4eee-a7d4-848d8737ad0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/AddProduct.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/DataTestCMS.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/DataTestCMS.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataTest/Login.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/Login.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTest/testconvert.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/testconvert.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/Profile.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/Profile.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/Register.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTest/Register.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTest/testconvert_json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/exports/ExtentReport/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/AddProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/AddProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/constants/ConfigData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/drivers/DriverManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/helpers/CaptureHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/helpers/ExcelHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/helpers/PropertiesHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/helpers/SystemHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/keywords/WebUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/reports/AllureManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/reports/ExtentReportManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/reports/ExtentTestManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/requests/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/requests/ProductVariant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/requests/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thanhtester/utils/LogUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/services/io.qameta.allure.listener.TestLifecycleListener" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/io.qameta.allure.listener.TestLifecycleListener" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/common/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/dataproviders/DataProviderAddProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/dataproviders/DataProviderAddProductToCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/listeners/AllureListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/listeners/TestListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/AddProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/CommonPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/DashboardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/ProductInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/pages/RegisterPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/AddProductTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/RegisterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thanhtester/testcases/SearchProductTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suites/SuiteAddProductTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suites/SuiteLogin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suites/SuiteLogin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suites/SuiteRegister.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suites/SuiteRegister.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suites/SuiteSearchProduct.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suites/SuiteSearchProduct.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,73 +59,87 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;nguyenthanh2k3IT&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nguyenthanh2k3IT/DATN_NGUYENTHITHANH.git&quot;,
-    &quot;accountId&quot;: &quot;fabe7804-9533-449a-8155-47ea3fe9ab76&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2wxDPrWywi39GYuhSxhtS8Pqogq" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.AddProductTest.TC_AddProductNoVariantValidRoleAdminWithHaveDiscount.executor": "Run",
-    "TestNG.AddProductTest.TC_AddProductNoVariantValidRoleAdminWithInvalidDiscount.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml (1).executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteLogin.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/Selenium_Java_ThanhTester/suites/SuiteRegister.xml.executor": "Run",
+    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteCart.xml.executor": "Run",
     "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteLogin.xml.executor": "Run",
     "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteRegister.xml.executor": "Run",
-    "TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteSearchProduct.xml.executor": "Run",
-    "TestNG.LoginTest.TC_LoginFailWithEmailDoesNotExist.executor": "Run",
+    "TestNG.EditProductTest.executor": "Run",
     "TestNG.LoginTest.TC_LoginFailWithEmailNull.executor": "Run",
-    "TestNG.LoginTest.TC_LoginFailWithIncorrectPassword.executor": "Run",
-    "TestNG.LoginTest.TC_LoginFailWithInvalidEmailFormat.executor": "Run",
-    "TestNG.LoginTest.TC_LoginFailWithNullPassword.executor": "Run",
+    "TestNG.LoginTest.TC_LoginSuccessAdminPage (1).executor": "Run",
     "TestNG.LoginTest.TC_LoginSuccessAdminPage.executor": "Run",
-    "TestNG.LoginTest.TC_LoginSuccessWithSellerAccount.executor": "Run",
+    "TestNG.LoginTest.TC_LoginSuccessWithCustomerAccount.executor": "Run",
     "TestNG.LoginTest.TC_LoginwithnullEmailPassword.executor": "Run",
     "TestNG.LoginTest.executor": "Run",
+    "TestNG.ProfileTest.TC_AddNewAddressValid.executor": "Run",
+    "TestNG.ProfileTest.TC_UpdateInfoBasicProfileCustomerWithoutName.executor": "Run",
+    "TestNG.ProfileTest.executor": "Run",
     "TestNG.RegisterTest.TC_RegisterFailCustomerWithExistEmail.executor": "Run",
     "TestNG.RegisterTest.TC_RegisterFailCustomerWithInvalidEmail.executor": "Run",
+    "TestNG.RegisterTest.TC_RegisterFailCustomerWithconfirmpasswordnull.executor": "Run",
     "TestNG.RegisterTest.TC_RegisterFailCustomerWithoutEmail.executor": "Run",
     "TestNG.RegisterTest.TC_RegisterFailCustomerWithoutFullname.executor": "Run",
-    "TestNG.RegisterTest.TC_RegisterFailCustomerWithoutPassword.executor": "Run",
-    "TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo (1).executor": "Run",
     "TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo.executor": "Run",
-    "TestNG.SearchProductTest.TC_SearchSuggestionCategoryContainKeySearchProduct.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Thanh_Test/Selenium_Java_ThuyDung"
+    "TestNG.SearchProductTest.executor": "Run",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.LoginTest.TC_LoginwithnullEmailPassword">
-    <configuration name="LoginTest.TC_LoginwithnullEmailPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ProfileTest.TC_UpdateInfoBasicProfileCustomerWithoutName">
+    <configuration name="C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteCart.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Graduation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/SuiteCart.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditProductTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Graduation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
+          <option name="PATTERN" value="com.thanhnguyen.testcases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.LoginTest" />
-      <option name="METHOD_NAME" value="TC_LoginwithnullEmailPassword" />
+      <option name="PACKAGE_NAME" value="com.thanhnguyen.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.thanhnguyen.testcases.EditProductTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Graduation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thanhnguyen.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thanhnguyen.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.thanhnguyen.testcases.ProfileTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileTest.TC_AddNewAddressValid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Graduation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thanhnguyen.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thanhnguyen.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.thanhnguyen.testcases.ProfileTest" />
+      <option name="METHOD_NAME" value="TC_AddNewAddressValid" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -95,71 +147,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterTest.TC_RegisterFailCustomerWithInvalidEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProfileTest.TC_UpdateInfoBasicProfileCustomerWithoutName" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Graduation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
+          <option name="PATTERN" value="com.thanhnguyen.testcases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterFailCustomerWithInvalidEmail" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegisterTest.TC_RegisterFailCustomerWithoutEmail" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Graduation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterFailCustomerWithoutEmail" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegisterTest.TC_RegisterFailCustomerWithoutPassword" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Graduation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterFailCustomerWithoutPassword" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Graduation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thanhtester.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thanhtester.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.thanhtester.testcases.RegisterTest" />
-      <option name="METHOD_NAME" value="TC_RegisterSuccessCustomerWithValidBasicInfo" />
+      <option name="PACKAGE_NAME" value="com.thanhnguyen.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.thanhnguyen.testcases.ProfileTest" />
+      <option name="METHOD_NAME" value="TC_UpdateInfoBasicProfileCustomerWithoutName" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -169,23 +167,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest.TC_LoginwithnullEmailPassword" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithoutEmail" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterSuccessCustomerWithValidBasicInfo" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithoutPassword" />
-        <item itemvalue="TestNG.RegisterTest.TC_RegisterFailCustomerWithInvalidEmail" />
+        <item itemvalue="TestNG.ProfileTest.TC_UpdateInfoBasicProfileCustomerWithoutName" />
+        <item itemvalue="TestNG.ProfileTest.TC_AddNewAddressValid" />
+        <item itemvalue="TestNG.ProfileTest" />
+        <item itemvalue="TestNG.EditProductTest" />
+        <item itemvalue="TestNG.C:/Do_An_Tot_Nghiep/DATN/DATN_NGUYENTHITHANH/suites/SuiteCart.xml" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="debbda15-f62c-49bd-a198-cc65fd3ae5b1" name="Changes" comment="" />
-      <created>1746974309229</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1746974309229</updated>
-    </task>
     <servers />
   </component>
 </project>
