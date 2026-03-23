@@ -47,25 +47,15 @@ https://github.com/browser-use/web-ui
 ## 🔄 Báo cáo tiến độ 
 ### 1. 🧠 Link biểu đồ hoạt động
 
-- Biểu đồ hoạt động cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng :
-https://app.diagrams.net/#G1H0co0zrW72CU5blONmnhJQ0IwIn9EnRo#%7B%22pageId%22%3A%22KimPO_uVr8_RKMBNpVUn%22%7D
-- Demo chức năng đăng nhập :
-
-![image](https://github.com/user-attachments/assets/f36f89a0-6669-4479-9b55-5fdcef3de329)
+- Biểu đồ hoạt động cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng 
 
 ### 2. ⚙️ Link Test Case 
 
-- Tổng quan các testcase đã được lập cho từng chức năng: 
-https://docs.google.com/spreadsheets/d/1dL6sx_J57KI9QQw3DLZieYETtbTEUevN/edit?gid=1138653359#gid=1138653359
-- Demo TEST CASE cho chức năng đặt đơn hàng : 
-![image](https://github.com/user-attachments/assets/0ef24c25-12d0-44c4-84c1-24867d107839)
-
+- Tổng quan các testcase đã được lập cho từng chức năng
 
 ### 3. 🧠 Link Data Test
 
-- Chuẩn bị dữ liệu test cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng :
-[https://app.diagrams.net/#G1H0co0zrW72CU5blONmnhJQ0IwIn9EnRo#%7B%22pageId%22%3A%22KimPO_uVr8_RKMBNpVUn%22%7D](https://docs.google.com/spreadsheets/d/1YsIOgYRdFKt_2eyJBk6MWeKQiAb0L0tx/edit?gid=1974521266#gid=1974521266)
-- Demo dữ liệu test:
+- Chuẩn bị dữ liệu test cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng 
 
 ### 4. 💾 Link đề cương đồ án tốt nghiệp
 - Đề cương chi tiết đồ án tốt nghiệp :
