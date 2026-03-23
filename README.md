@@ -58,9 +58,8 @@ https://github.com/browser-use/web-ui
 - Chuẩn bị dữ liệu test cho các chức năng: Đăng nhập , Đăng ký , Tìm kiếm sản phẩm , Đặt hàng 
 
 ### 4. 💾 Link đề cương đồ án tốt nghiệp
-- Đề cương chi tiết đồ án tốt nghiệp :
 
-https://docs.google.com/document/d/1X086nkLTsaZbcBS-ttfV79U__eFsfQvI/edit
+------------
 
 ### 5. 🔐 Powerpoint 
 
